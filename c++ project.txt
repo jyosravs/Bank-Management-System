@@ -38,7 +38,7 @@ records.‌ ‌Object‌ ‌based‌ ‌storage‌ ‌should‌ ‌be‌ ‌done
 4.‌ ‌Appropriate‌ ‌comments‌ ‌should‌ ‌be‌ ‌provided‌ ‌within‌ ‌the‌ ‌code‌ ‌for‌ ‌the‌ ‌operations‌ ‌implemented‌ ‌
 and‌ ‌their‌ ‌nature‌ ‌of‌ ‌calling.‌ ‌ ‌*/
                          
-s#include<iostream>// standard input/output libraries.
+#include<iostream>// standard input/output libraries.
 #include<fstream>
 #include<cctype>
 #include<iomanip>
